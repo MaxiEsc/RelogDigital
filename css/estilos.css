@@ -1,0 +1,28 @@
+#relog{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-shadow: 0px 0px 1px #333;
+    color: white;
+}
+
+.relog_contenedor{
+    background: rgb(13,0,36);
+    background: linear-gradient(90deg, rgba(13,0,36,1) 2%, rgba(123,25,112,0.913585417076987) 100%, rgba(0,212,255,1) 100%); 
+    padding: 25px;
+    max-width: 1000px;
+    text-align: center;
+    border-radius: 50px;
+    margin: 0px auto;
+    margin-top: 10%;
+
+}
+
+#fecha{
+    letter-spacing: 10px;
+    font-size: 15px;
+}
+
+.animar{
+    border: rgb(0,0,0) 2px solid;
+
+}
